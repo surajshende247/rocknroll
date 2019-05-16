@@ -1,6 +1,6 @@
 # RocknRoll
 
-It is small work of mine in which random number generate by android and according to it shows faces of dice.
+It is small work of mine in which random number will generate  and according to it app will shows faces of dice.
 
  
  
