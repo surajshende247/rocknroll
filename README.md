@@ -14,7 +14,6 @@ Please make sure to update tests as appropriate.
 [Udacity](https://classroom.udacity.com/courses/ud9012/)
 
 
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+#1
+defunkt#1
+defunkt/github-flavored-markdown#1
