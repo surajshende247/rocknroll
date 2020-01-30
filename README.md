@@ -14,9 +14,7 @@ Please make sure to update tests as appropriate.
 [Udacity](https://classroom.udacity.com/courses/ud9012/)
 
 
-```javascript
-function test()
-{
- console.log("Hello theKoder");
-}
-```
+First Header | Second Header
+-------------|--------------
+Content Cell1 | Content Cell 2
+Content Column 1 | Content Column 1
