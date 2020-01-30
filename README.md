@@ -14,6 +14,7 @@ Please make sure to update tests as appropriate.
 [Udacity](https://classroom.udacity.com/courses/ud9012/)
 
 
-http://github.com - automatic!
+As Kanye West said:
 
-[Github](http://github.com)
+> We're living the future so
+>the present is our past.
