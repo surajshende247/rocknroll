@@ -14,8 +14,6 @@ Please make sure to update tests as appropriate.
 [Udacity](https://classroom.udacity.com/courses/ud9012/)
 
 
-1. Item 1
-2. Item 2
-3. Item 3
-    * Item 3a
-    * Item 3b
+http://github.com - automatic!
+
+[Github](http://github.com)
